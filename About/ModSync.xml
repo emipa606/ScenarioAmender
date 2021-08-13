@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>4aedf441-4021-4ca7-9bea-b405f4c3e9f1</ID>
   <ModName>Scenario Amender (Continued)</ModName>
-  <Version>1.0.2.0</Version>
+  <Version>1.0.3.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>

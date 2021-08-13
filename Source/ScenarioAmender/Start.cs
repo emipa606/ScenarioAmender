@@ -18,7 +18,7 @@ namespace ScenarioAmender
             }
 
             typeof(MainMenuDrawer).GetNestedType("<>c", BindingFlags.Instance | BindingFlags.NonPublic)
-                .GetField("<>9__16_2", BindingFlags.Static | BindingFlags.Public)
+                .GetField("<>9__17_2", BindingFlags.Static | BindingFlags.Public)
                 ?.SetValue(null, (Action) Value);
         }
     }
